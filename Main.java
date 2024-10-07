@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Khatchik");
         System.out.println(leftDoor);
         System.out.println(rightDoor);
+        jj
 
 
     }
